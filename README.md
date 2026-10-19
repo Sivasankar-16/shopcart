@@ -1,7 +1,6 @@
 A React + TypeScript storefront demo — a landing/auth page, a product catalog
 backed by [DummyJSON](https://dummyjson.com/), and a cart — built incrementally
-as a TypeScript learning project, and intended as an onboarding reference for
-the team.
+as a TypeScript learning project.
 
 ### Requirements
 
